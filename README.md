@@ -1,2 +1,2 @@
 # CSharp-SoftUni
-C# Basic - exams
+C# Basics - exams
